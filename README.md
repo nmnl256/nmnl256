@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я Артем! 👋
+Я — **Data Analyst** и у меня есть опыт работы с анализом данных, статистикой, машинным обучением и визуализацией. 
 
-<!--
-**nmnl256/nmnl256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Мой стек технологий
+- **Языки программирования**: Python, SQL
+- **Библиотеки и фреймворки**: Pandas, Numpy, Matplotlib, Scikit-learn, Seaborn
+- **Инструменты**: Tableau, Power BI, SQL, Jira, Miro, Нотации моделирования БП
 
-Here are some ideas to get you started:
+## 🚀 Мои последние проекты
+- [Лендинг интеграцией Яндекс.Метрики, Модель лог. регрессии](https://github.com/nmnl256/FirebasePetProject)
+- [Анализ A/B тестов](https://github.com/nmnl256/ab_test_project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Контакты
+- 📧 Email: [aeliakh@edu.hse.ru](mailto:aeliakh@edu.hse.ru)
+- 🔗 [GitHub](https://github.com/nmnl256)
+- 📱 [Telegram](https://t.me/always2alive)
+- 🌐 [Лендинг из пет проекта](https://nmnl256.github.io/FirebasePetProject/)
