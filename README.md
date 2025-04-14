@@ -8,7 +8,7 @@
 
 ## 🚀 Мои последние проекты
 - [Лендинг с интеграцией Яндекс.Метрики, Модель лог. регрессии](https://github.com/nmnl256/FirebasePetProject)
-- [Анализ A/B тестов](https://github.com/nmnl256/ab_test_project)
+- [Анализ A/B тестов](https://github.com/nmnl256/Analyzing-A-B-test-results)
 
 ## 📬 Контакты
 - 📧 Email: [aeliakh@edu.hse.ru](mailto:aeliakh@edu.hse.ru)
