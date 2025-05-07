@@ -9,7 +9,8 @@
 ## 🚀 Мои последние проекты
 - [Лендинг с интеграцией Яндекс.Метрики, Модель лог. регрессии](https://github.com/nmnl256/FirebasePetProject)
 - [Анализ A/B тестов](https://github.com/nmnl256/Analyzing-A-B-test-results)
-- [reverse engineering | dota bytepatch ](https://github.com/nmnl256/dota-maphack-bytepatch)
+- [reverse engineering & bytepatch | dota maphack ](https://github.com/nmnl256/dota-maphack-bytepatch)
+- [reverse engineering & bytepatch | dota external visibility checker](https://github.com/nmnl256/Dota-external-visibility-checker)
 
 ## 📬 Контакты
 - 🔗 [GitHub](https://github.com/nmnl256)
