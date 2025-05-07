@@ -9,6 +9,7 @@
 ## 🚀 Мои последние проекты
 - [Лендинг с интеграцией Яндекс.Метрики, Модель лог. регрессии](https://github.com/nmnl256/FirebasePetProject)
 - [Анализ A/B тестов](https://github.com/nmnl256/Analyzing-A-B-test-results)
+- [reverse engineering | dota bytepatch ](https://github.com/nmnl256/dota-maphack-bytepatch)
 
 ## 📬 Контакты
 - 📧 Email: [aeliakh@edu.hse.ru](mailto:aeliakh@edu.hse.ru)
